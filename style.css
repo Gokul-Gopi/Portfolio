@@ -132,6 +132,17 @@ section{
     font-weight: 700;
 }
 
+.btn-sec{
+    padding: 7px 8px;
+    border-radius: 10px;
+    background-color: white;
+    color: var(--primary-color);
+    font-size: 15px;
+    border: 1px solid  var(--primary-color) ;
+    margin-bottom: 7px;
+    font-weight: 700;
+}
+
 .btn:hover{
    cursor: pointer;
    background-color: #229168;
